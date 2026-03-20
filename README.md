@@ -43,7 +43,7 @@ It also adjusts motor speed to maintain proper distance from walls.
 ---
 
 ### 🔌 Circuit Connections
-📄[View circuit Connections and Diagram](Circuit.md)
+📄[View circuit Connections and Diagram](circuit.md)
 
 ---
 
