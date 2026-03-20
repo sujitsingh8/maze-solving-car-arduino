@@ -1,5 +1,7 @@
 ### 🏎️ Maze Solving Car (Arduino Nano)
 
+<img src="images/View 1.jpeg" width="335"> <img src="images/Maze.jpeg" width="190">
+
 ### ⚠️ Note
 In the images, side sensors are not at 90°, but were later adjusted.
 
@@ -36,6 +38,8 @@ It also adjusts motor speed to maintain proper distance from walls.
 - Battery
 - Chassis
 
+<img src="images/Components.jpeg" width="150">
+
 ---
 
 ### 🔌 Circuit Connections
@@ -55,9 +59,16 @@ Main functions:
 
 [View Code](code/main.ino)
 
+<img src="images/Code.jpeg" width="150">
+
 ---
 
 ### 📸 Images
+
+<img src="images/View 2.jpeg" width="335"> <img src="images/All Components.jpeg" width="190">
+<img src="images/View 1.jpeg" width="280"> <img src="images/Maze.jpeg" width="280">
+<img src="images/Components.jpeg" width="280"> <img src="images/Code.jpeg" width="280">
+<img src="images/Circuit.jpg" width="280">
 
 ### ⚠️ Note
 In the images, side sensors are not at 90°, but were later adjusted.
